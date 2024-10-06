@@ -14,7 +14,7 @@
 git clone https://github.com/pku-minic/sysy-cmake-template.git
 ```
 
-在 [compiler-dev](https://github.com/pku-minic/compiler-dev) 环境内, 进入仓库目录后执行:
+在 [compiler-dev](https://github.com/pku-minic/compiler-dev) 环境内(in docker container), 进入仓库目录后执行:
 
 ```sh
 cd sysy-make-template
